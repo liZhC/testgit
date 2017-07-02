@@ -1,6 +1,6 @@
 dev content to be merge
 
-class hello{
+class HI{
 	private int a = 1;
 
 	private String str = '123';
